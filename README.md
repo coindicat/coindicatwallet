@@ -21,7 +21,7 @@ ln -s ../coindicat cryptonote
 Alternative way is to create git submodule:
 
 ```
-git submodule add https://github.com/cryptonotefoundation/coindicat.git cryptonote
+git submodule add https://github.com/coindicat/coindicat.git cryptonote
 ```
 
 Replace URL with git remote repository of your coin.
