@@ -1,7 +1,7 @@
 **1. Clone wallet sources**
 
 ```
-git clone https://github.com/cryptonotefoundation/coindicatwallet.git
+git clone https://github.com/coindicat/coindicatwallet.git
 ```
 
 **2. Modify `CryptoNoteWallet.cmake`**
