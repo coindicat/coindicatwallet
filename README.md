@@ -28,6 +28,12 @@ Replace URL with git remote repository of your coin.
 
 **4. Build**
 
+
 ```
 mkdir build && cd build && cmake .. && make
+```
+On Mac:
+
+```
+mkdir build && cd build && cmake .. -DCMAKE_PREFIX_PATH=$(brew --prefix qt5) && make
 ```
